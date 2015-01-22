@@ -1,2 +1,2 @@
 # datasciencecoursera
-My First Git Repo
+My First Git Repo - For the Coursera Data Science exercises
